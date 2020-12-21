@@ -21,8 +21,8 @@
 export default {
   data() {
     return {
-      title: "개발자의 품격",
-      title2: "Seoul",
+      title: "Jerry",
+      title2: "Suwon",
       input1: "abcd",
       options: [
         { v: "S", t: "Seoul" },
